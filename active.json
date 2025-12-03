@@ -1,7 +1,7 @@
 {
   "concal": 
   {
-    "access": false,
-    "message": "Access Denied. If you should have access contact: Hayden.Hall@Asurion.com"
+    "access": true,
+    "message": "Access Granted."
   }
 }
